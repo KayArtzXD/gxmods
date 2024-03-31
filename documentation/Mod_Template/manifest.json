@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "KayArtzXD mod",
+    "description": "i don't know is only my mod,
+    "developer":KayArtzXd
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "KayArtzXD"
     },
     "icons":
     {
@@ -26,15 +26,15 @@
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "sound/sound-effectt-hd.mp3"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
-                    "sound/feature_switch_off.mp3"
+                    "sound/mac trash.mp3
                 ],
                 "FEATURE_SWITCH_ON":
                 [
-                    "sound/feature_switch_on.mp3"
+                    "sound/sound-effect-hd (1).mp3
                 ],
                 "HOVER":
                 [
@@ -46,7 +46,7 @@
                 ],
                 "IMPORTANT_CLICK":
                 [
-                    "sound/important_click.mp3"
+                    "sound/shutter click.mp3
                 ],
                 "LEVEL_UPGRADE":
                 [
@@ -66,11 +66,11 @@
                 ],
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "sound/transition sound.mp3
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "sound/smoosh.mp3
                 ],
                 "TAB_SLASH":
                 [
